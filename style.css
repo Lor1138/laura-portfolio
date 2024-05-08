@@ -13,6 +13,8 @@ our pages, as well as the font stacks and sizes */
     --mono: "Oxygen mono", monospace;
     --sans: Oxygen, sans-serif;
 }
+/*add a light mode toggle to nav */
+
 /* border box model: https://css-tricks.com/box-sizing/ */
 html {
     box-sizing: border-box;
